@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/Mission1Hilton.csproj",
-      "projectName": "Mission1Hilton",
-      "projectPath": "/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/Mission1Hilton.csproj",
+      "projectUniqueName": "/Users/nicko/RiderProjects/Mission1Hilton/Mission2DiceRoller/Mission2DiceRoller.csproj",
+      "projectName": "Mission2DiceRoller",
+      "projectPath": "/Users/nicko/RiderProjects/Mission1Hilton/Mission2DiceRoller/Mission2DiceRoller.csproj",
       "packagesPath": "/Users/nicko/.nuget/packages/",
-      "outputPath": "/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/obj/",
+      "outputPath": "/Users/nicko/RiderProjects/Mission1Hilton/Mission2DiceRoller/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nicko/.nuget/NuGet/NuGet.Config"

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Mission1Hilton
+namespace Mission2DiceRoller
 {
     class Program
     {
