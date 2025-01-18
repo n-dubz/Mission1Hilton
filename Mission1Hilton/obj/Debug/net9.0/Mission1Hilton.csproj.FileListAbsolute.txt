@@ -1,0 +1,14 @@
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/bin/Debug/net9.0/Mission1Hilton
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/bin/Debug/net9.0/Mission1Hilton.deps.json
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/bin/Debug/net9.0/Mission1Hilton.runtimeconfig.json
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/bin/Debug/net9.0/Mission1Hilton.dll
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/bin/Debug/net9.0/Mission1Hilton.pdb
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/obj/Debug/net9.0/Mission1Hilton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/obj/Debug/net9.0/Mission1Hilton.AssemblyInfoInputs.cache
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/obj/Debug/net9.0/Mission1Hilton.AssemblyInfo.cs
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/obj/Debug/net9.0/Mission1Hilton.csproj.CoreCompileInputs.cache
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/obj/Debug/net9.0/Mission1Hilton.dll
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/obj/Debug/net9.0/refint/Mission1Hilton.dll
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/obj/Debug/net9.0/Mission1Hilton.pdb
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/obj/Debug/net9.0/Mission1Hilton.genruntimeconfig.cache
+/Users/nicko/RiderProjects/Mission1Hilton/Mission1Hilton/obj/Debug/net9.0/ref/Mission1Hilton.dll
